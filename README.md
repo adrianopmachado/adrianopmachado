@@ -1,4 +1,4 @@
-### Eae, sou o Adriano Parente
+### Olá, sou o Adriano Parente
 
 - 🔭 Futuro programador
 - 🌱 Estudando Python e Django
