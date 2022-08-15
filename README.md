@@ -1,7 +1,6 @@
 ### Olá, sou o Adriano Parente
 
-- 🔭 Futuro programador
-- 🌱 Estudando Python e Django
+- 🔭 Futuro programador Front-end!
 
 <div align="center">
   <a href="https://github.com/adrianopmachado">
