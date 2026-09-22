@@ -1,6 +1,6 @@
 ### Olá, sou o Adriano Parente
 
-- 🔭 Futuro programador Front-end!
+- 🔭 Data Analytics!
 
 <div align="center">
   <a href="https://github.com/adrianopmachado">
