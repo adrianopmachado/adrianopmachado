@@ -33,7 +33,7 @@ Economista de formação, com pós-graduação em Engenharia da Computação e M
 
 | Projeto | Descrição | Tecnologias |
 |---|---|---|
-| [Simulador de Custos Médicos](https://github.com/adrianopmachado/health-cost-simulator) | Análise dos fatores que mais pesam no custo de um plano de saúde corporativo, com modelo de regressão (R² de 0,80), dashboard no Power BI e [app web](https://simulador-custos-medicos.streamlit.app) para simular o custo de um novo colaborador. Tabagismo e obesidade foram os maiores direcionadores. | Python, Scikit-Learn, Streamlit, Power BI |
+| [Simulador de Custos Médicos](https://github.com/adrianopmachado/health-cost-simulator) | Análise dos fatores que mais pesam no custo de um plano de saúde corporativo, com modelo de regressão (R² de 0,80), [dashboard no Power BI](https://app.powerbi.com/view?r=eyJrIjoiOWM4MmViZWQtNWQxOS00NGY4LTliNjgtYWZhNjI5OWMxMTg5IiwidCI6ImI3MDVjNDQ4LTRiYTAtNDgzNi1iYWI2LWE4YTFlNjljY2UyZiJ9) e [app web](https://simulador-custos-medicos.streamlit.app) para simular o custo de um novo colaborador. Tabagismo e obesidade foram os maiores direcionadores. | Python, Scikit-Learn, Streamlit, Power BI |
 ## 🎓 Formação
 
 - **Pós-graduação em Engenharia da Computação**, Uninter (2025)
